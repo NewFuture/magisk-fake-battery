@@ -1,0 +1,1 @@
+# magisk-fake-battery-level
