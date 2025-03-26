@@ -1,1 +1,3 @@
-# magisk-fake-battery-level
+# magisk-fake-battery
+
+fake for device removed batttery

@@ -1,6 +1,6 @@
-id=magisk-fake-battery-level
-name=Magisk Fake Battery Level
-version=v1.0.1
-versionCode=010000
-author=Evit15
-description=Fake level if battery has the problem
+id=magisk-fake-battery
+name=Magisk Fake Battery
+version=v1.0.2
+versionCode=010020
+author=newfuture
+description=Fake battery Status
